@@ -1,0 +1,31 @@
+{
+  "Offsets": {
+    "Name": "0xb0",
+    "ClassDescriptor": "0x18",
+    "ClassDescriptorToClassName": "0x8",
+    "Children": "0x78",
+    "ChildrenEnd": "0x8",
+    "FakeDataModelPointer": "0x74f8758",
+    "FakeDataModelToDataModel": "0x1d0",
+    "VisualEnginePointer": "0x7bd71f8",
+    "ViewMatrix": "0x140",
+    "LocalPlayer": "0x138",
+    "ModelInstance": "0x3a8",
+    "Health": "0x194",
+    "MaxHealth": "0x1b4",
+    "Walkspeed": "0x1dc",
+    "HipHeight": "0x1a0",
+    "Workspace": "0x178",
+    "PlaceId": "0x1a0",
+    "GameId": "0x198",
+    "UserId": "0x2d8",
+    "Team": "0x2b0",
+    "HumanoidRootPart": "0x488",
+    "CameraPosition": "0x11c",
+    "CameraRotation": "0xf8",
+    "Primitive": "0x148",
+    "Position": "0xec",
+    "Velocity": "0xf8",
+    "ViewMatrix": "0x140"
+  }
+}
